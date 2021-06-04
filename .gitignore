@@ -197,7 +197,7 @@ Temporary Items
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
-.idea/**/shelf
+.idea/**/shgt
 
 # Generated files
 .idea/**/contentModel.xml
